@@ -1,0 +1,6 @@
+pyrofork
+requests
+beautifulsoup4
+trio
+pymongo
+tgcrypto-pyrofork
